@@ -49,5 +49,5 @@ All images, fonts, and designs are used for educational purposes only.
 ## About Me
 
 Developed by [Amit Gautam]  
-GitHub: https://github.com/your-AmitWith 
+GitHub: https://github.com/AmitWith 
 Email:gutamamit046@gmail.com
